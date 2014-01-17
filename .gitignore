@@ -4,6 +4,7 @@ Exported Items.bib
 *.alg
 *.aux
 *.bbl
+*.bcf
 *.blg
 *.dvi
 *.fdb_latexmk
